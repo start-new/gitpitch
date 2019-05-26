@@ -1,0 +1,1 @@
+# Cookiecutter template to quickstart presentations
