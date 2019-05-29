@@ -2,5 +2,5 @@
     "project_name": "My Project",
     "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_') }}",
     "presentation_title": "My presentation",
-    "author": "Thierry Chappuis <thierry@chappuis.io>"
+    "presentation_subtitle": ""
 }
