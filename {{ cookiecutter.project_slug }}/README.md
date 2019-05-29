@@ -1,3 +1,5 @@
-# formation-python-ge
+# {{ cookiecutter.presentation_title }}
 
-Dépôt de code utilisation pour la formation python organisée à Genève du 12 au 14 décembre 2018
+## {{ cookiecutter.presentation_subtitle }}
+
+{{ cookiecutter.presentation_description }}
