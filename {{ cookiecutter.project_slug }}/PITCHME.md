@@ -2,12 +2,10 @@
 
 ---
 @snap[span-100]
-## Thierry Chappuis, PhD
+## {{ cookiecutter.author }}
 @snapend
 
-Formateur Python et Professeur à la Haute Ecole d'Ingénierie de Fribourg
-
-**thierry@chappuis.io**
+{{ cookiecutter.biography_line }}
 
 ---
 
