@@ -1,4 +1,5 @@
-# Formation Python
+# {{ cookiecutter.presentation_title }}
+## {{ cookiecutter.presentation_subtitle }}
 
 ---
 @snap[span-100]
