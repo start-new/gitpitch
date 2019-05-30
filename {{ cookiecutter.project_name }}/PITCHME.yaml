@@ -41,7 +41,7 @@ published : true
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
 title : "{{ cookiecutter.presentation_title }}"
-description : "{{ cookiecutter.presnetation_description }}"
+description : "{{ cookiecutter.presentation_description }}"
 
 pro-menus-hidden : true
 slide-number: false
