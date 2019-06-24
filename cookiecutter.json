@@ -2,6 +2,7 @@
     "project_name": "My Project",
     "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_') }}",
     "author": "Thierry Chappuis",
+    "email": ""
     "biography_line": "",
     "presentation_title": "My new presentation",
     "presentation_subtitle": "",
