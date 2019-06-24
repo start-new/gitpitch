@@ -15,8 +15,8 @@ theme-override: .gitpitch/assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : .gitpitch/assets/img/logo.png
-logo-postion : top-left
+# logo : .gitpitch/assets/img/logo.png
+# logo-postion : top-left
 
 #
 # Layout Setting
@@ -43,5 +43,5 @@ published : true
 title : "{{ cookiecutter.presentation_title }}"
 description : "{{ cookiecutter.presentation_description }}"
 
-pro-menus-hidden : true
-slide-number: false
+# pro-menus-hidden : true
+slide-number: true

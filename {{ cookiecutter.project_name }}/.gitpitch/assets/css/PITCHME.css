@@ -8,7 +8,7 @@
   display: none;
 }
 
-.text-orange {
+.text-orange, .text-primary {
   color: #F37544;
 }
 
