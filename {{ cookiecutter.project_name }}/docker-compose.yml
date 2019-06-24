@@ -1,8 +1,7 @@
 version: "3"
 services:
-    mysql:
+    pitchme:
         image: gitpitch/desktop:pro
-        working_dir: /repo
         ports:
             - "9000:9000"
         volumes:
