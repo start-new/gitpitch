@@ -33,6 +33,19 @@ html {
   font-size: 100%;
 }
 
+body, 
+.hljs {
+  background-color: #000;
+}
+
+.code-hide-opacity {
+  opacity: 0.2;
+}
+
+.code-presenting-annotation {
+  color: #F37544;
+}
+
 .reveal > .gp-menu-bars.fa.fa-bars {
   color: rgba(0,0,0,0);
 }
