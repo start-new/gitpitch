@@ -15,7 +15,7 @@ theme-override: .gitpitch/assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-{% if cookiecutter.show_logo|lower in ("y", "yes") %}
+{% if cookiecutter.show_logo.lower() in ("y", "yes") %}
 logo : .gitpitch/assets/img/logo.png
 logo-postion : top-left
 {% else %}
