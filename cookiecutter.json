@@ -2,10 +2,9 @@
     "project_name": "My Project",
     "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_') }}",
     "author": "Thierry Chappuis",
-    "email": "",
-    "biography_line": "",
-    "presentation_title": "My new presentation",
-    "presentation_subtitle": "",
-    "presentation_description": "",
-    "show_logo": "y"
+    "email": "thierry@chappuis.net",
+    "biography_line": "Formateur et développeur",
+    "presentation_title": "Ma nouvelle présentation",
+    "presentation_subtitle": "Une nouvelle aventure",
+    "presentation_description": "Quelques mots au sujet de la présentation"
 }
