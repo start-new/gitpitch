@@ -1,7 +1,7 @@
 version: "3"
 services:
-    pitchme:
-        image: gitpitch/desktop:pro
+    gitpitch:
+        image: gitpitch/4.0
         ports:
             - "9000:9000"
         volumes:
